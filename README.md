@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RlundqvistJr
 - 👀 I’m interested in robotics software, machine learning, HCI, NLP, and robotics
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning about AI drawing assistants, as a researcher at the Expressive Machinery Lab
+- 💞️ I’m looking to collaborate on exciting tech, based on the needs of everyday people
+- 📫 Reach me at rlundqvist3@gatech.edu
 
 <!---
 RlundqvistJr/RlundqvistJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
