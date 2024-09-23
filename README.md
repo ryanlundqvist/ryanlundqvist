@@ -1,4 +1,5 @@
 # Hey there 👋
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ryanlundqvist)
 
 I'm Ryan (@ryanlundqvist). I'm a CS undergraduate at Georgia Tech, and I am interested in machine learning engineering, applications of computing research, and math.
  I'm looking for Summer 2025 internships, and I can be reached at ryan@lundqvist.us
