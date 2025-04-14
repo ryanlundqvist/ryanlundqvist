@@ -1,7 +1,7 @@
 # Hey there 👋 I'm Ryan (@ryanlundqvist)
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ryanlundqvist)
 
-🎓 I'm a graduating Computer Science student at Georgia Tech, concentrating in Machine Learning/Artificial Intelligence. I am interested in machine learning engineering, agent safety, interpretability, applications of computing research, human-agent interaction platforms, linguistics, and mathematics.
+🎓 I'm a graduating Computer Science student at Georgia Tech, concentrating in Machine Learning/Artificial Intelligence. I am interested in machine learning research, agent safety, interpretability, applications of computing research, human-agent interaction platforms, linguistics, and mathematics.
 
 💻 Professionally, I have been an engineer with experience in an intersection of backend, data, interfaces, and machine learning. Previously, I worked at Amazon on Elastic Cloud Compute.
 
