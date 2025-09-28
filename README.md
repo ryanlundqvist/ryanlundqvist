@@ -1,5 +1,5 @@
 # About me (@ryanlundqvist)
-- machine learning engineer (swe e3 on ml), previously interned on EC2 Compute Managed Data Services at Amazon
+- machine learning engineer (swe e3 on ml) at Meta, previously interned on EC2 Compute Managed Data Services at Amazon
 - computer science graduate from Georgia Tech, interested in machine learning research and safety
   
 
