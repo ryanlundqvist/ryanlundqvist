@@ -5,7 +5,7 @@
 - amateur herpetologist and major fan of reptiles/amphibians
 - interested in artificial intelligence, interpretability, moral philosophy, consciousness, linguistics, psychology, and hiking
 
-I have benefitted from the ability to receive mentorship from a variety of people, not limited to advising from 80,000 hours. If you are interested in minimizing existential risks from the development of artificial intelligence, I would highly recommend chatting with them! (https://80000hours.org/speak-with-us/)
+I have benefitted from the ability to receive mentorship from a variety of people, including but not limited to advising from 80,000 hours. If you are interested in minimizing existential risks from the development of artificial intelligence, I would highly recommend chatting with them! (https://80000hours.org/speak-with-us/)
   
 
 <!---
