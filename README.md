@@ -1,6 +1,6 @@
 # About me (@ryanlundqvist)
 - SPAR Fellow under Santi at Goodfire (Working on mech interp and evaluation awareness)
-- machine learning engineer (swe e3 on ml) at Meta, previously interned on EC2 Core Compute at Amazon
+- previous machine learning engineer (swe e3 on ml) at Meta, previously interned on EC2 Core Compute at Amazon
 - computer science graduate from Georgia Tech (focus in ML + People/Psychology), interested in machine learning research/safety
 - amateur herpetologist and major fan of reptiles/amphibians
 - interested in artificial intelligence, interpretability, moral philosophy, consciousness, linguistics, psychology, and hiking
