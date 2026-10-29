@@ -5,7 +5,7 @@ alignment research at Geodesic
 - Prev SPAR Fellow under Santi at Goodfire, now Anthropic (Working on mech interp and evaluation awareness)
 - previous machine learning engineer (swe e3 on ml) at Meta, previously interned on EC2 Core Compute at Amazon
 - computer science graduate from Georgia Tech (focus in ML + People/Psychology), interested in machine learning research/safety
-- amateur herpetologist and major fan of reptiles/amphibians! I have a pet snake
+- amateur herpetologist and major fan of reptiles/amphibians! I have a pet snake named jared
 - interested in artificial intelligence, interpretability, moral philosophy, consciousness, linguistics, psychology, and hiking
 
 I have benefitted from the ability to receive mentorship from a variety of people, including but not limited to advising from 80,000 hours. If you are interested in minimizing existential risks from the development of artificial intelligence, I would highly recommend chatting with them! (https://80000hours.org/speak-with-us/)
