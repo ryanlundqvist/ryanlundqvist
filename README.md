@@ -1,8 +1,8 @@
 # About me (@ryanlundqvist)
 alignment research at Geodesic
 
-- Prev Pivotal Fellow under Kevin at GovAI (Working on eval awareness x post-training and better understanding how predeployment evaluators can use automated auditors)
-- Prev SPAR Fellow under Santi at Goodfire, now Anthropic (Working on mech interp and evaluation awareness)
+- Prev Pivotal Fellow under Kevin Wei at GovAI (Working on eval awareness x post-training and better understanding how predeployment evaluators can use automated auditors)
+- Prev SPAR Fellow under Santi Aranguri at Goodfire (Working on mech interp and evaluation awareness)
 - previous machine learning engineer (swe e3 on ml) at Meta, previously interned on EC2 Core Compute at Amazon
 - computer science graduate from Georgia Tech (focus in ML + People/Psychology), interested in machine learning research/safety
 - amateur herpetologist and major fan of reptiles/amphibians! I have a pet snake named jared
